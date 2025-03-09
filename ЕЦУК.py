@@ -4,7 +4,7 @@ from aiogram.filters import Command
 from aiogram.types import FSInputFile
 
 API_TOKEN = "8101395650:AAG-uXXy4i53Q9WYWByN6gpHczs7T78-oYg"  # Ваш токен бота
-CHANNEL_USERNAME = "@proverkabota123124"  # Ваш Telegram-канал
+CHANNEL_USERNAME = "@transformer_people"  # Ваш Telegram-канал
 CONTACT_URL = "https://t.me/klyukva1"  # Ссылка для связи и записи
 AUDIO_FILE_PATH = "./Новая Медитация Покоя!.m4a"  # Путь к аудиофайлу
 
