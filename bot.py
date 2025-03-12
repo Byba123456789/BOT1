@@ -6,7 +6,7 @@ from aiogram.types import FSInputFile
 API_TOKEN = "8101395650:AAG-uXXy4i53Q9WYWByN6gpHczs7T78-oYg"  # Ваш токен бота
 CHANNEL_USERNAME = "@transformer_people"  # Ваш Telegram-канал
 CONTACT_URL = "https://t.me/klyukva1"  # Ссылка для связи и записи
-AUDIO_FILE_PATH = "./Новая Медитация Покоя!.m4a"  # Путь к аудиофайлу
+AUDIO_FILE_PATH = "/root/bot/Новая_Медитация_Покоя.m4a"
 
 # Список фраз для выделения жирным (HTML-теги)
 bold_phrases = [
